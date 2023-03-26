@@ -1,4 +1,4 @@
-package es.claradelrey.aceptaelreto;
+package es.claradelrey.aceptaelreto.problema119EscudosRomanos;
 /*
 Entrada de ejemplo
 35
